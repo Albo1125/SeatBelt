@@ -1,5 +1,5 @@
 # SeatBelt
-SeatBelt is a UK-based resource for FiveM by Albo1125 that provides seat belt sounds, notifications and observations for vehicle occupants that are not wearing a seat belt.
+SeatBelt is a UK-based resource for FiveM by Albo1125 that provides seat belt sounds, notifications and observations for vehicle occupants that are not wearing a seat belt. It is available at [https://github.com/Albo1125/SeatBelt](https://github.com/Albo1125/SeatBelt)
 
 ## Installation & Usage
 1. Download the latest release.
